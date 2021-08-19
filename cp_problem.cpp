@@ -44,8 +44,13 @@ bool isInterleave(string a, string b, string c){
 int main(){
 string a,b,c;
 cin>>a>>b>>c;    
-cout<<isInterleave( a, b, c);
-
+bool ans=isInterleave( a, b, c);
+if(ans==0){
+cout<<"False"
+}
+else if(ans==1){
+cout<<"True";
+}
 return 0;
 }
 
