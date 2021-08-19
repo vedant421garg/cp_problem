@@ -1,0 +1,6 @@
+5
+aa ab aaba
+aacaac aacaaeaac aacaaeaaeaacaac
+aabcc dbbca aadbbbaccc
+abcdefgh ijklmnop aibjckdlemfngohp
+aabc abad aabcbaad

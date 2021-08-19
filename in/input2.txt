@@ -1,0 +1,6 @@
+5
+ab bc bbac
+ef gh ehgf
+a b ab
+aabd abdc aabdbadc
+aabd abdc aabdabcd
