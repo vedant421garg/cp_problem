@@ -1,4 +1,6 @@
 #include <string>
+#include <iostream>
+using namespace std;
 
 bool isInterleaveUtil(string a, string b, string c, int n1, int n2, int n3){
 
@@ -38,3 +40,12 @@ bool isInterleave(string a, string b, string c){
     //Call the util function passing each string along with their lengths as arguments.
     return isInterleaveUtil(a, b, c, n1, n2, n3);
 }
+
+int main(){
+string a,b,c;
+cin>>a>>b>>c;    
+cout<<isInterleave( a, b, c);
+
+return 0;
+}
+
